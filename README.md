@@ -1,4 +1,4 @@
-# vanila-react-router: React Router 구현하기
+# vanilla-react-router: React Router 구현하기
 <br>
 
 ## 구현 목표
